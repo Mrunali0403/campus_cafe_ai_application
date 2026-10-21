@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+.pytest_cache/
+.ruff_cache/
+final_brief.md
